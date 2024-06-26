@@ -26,11 +26,13 @@ lr_0_parser/
 │ ├── parser.c
 │ ├── stack.c
 │ └── transducer.c
+├── src/extras
+│ ├── lr_0_parser_completo.c
+│ └── lr_0_parser.excalidraw
 ├── main.c
 ├── Makefile
 └── Read.me
 ```
-
 
 ## Gramática utilizada
 
@@ -232,6 +234,14 @@ aceitacao
 ----------- LOOP 25 -----------
 Stack: [2, S] [1, $]
 ```
+ 
+ ## **Extras** 
+ 
+ Arquivo !!!lr_0_parser.excalidraw anexado é o caderno de anotações utilizado durante a execução do algoritmo, contém referencias, desenhos que utilizamos. 
 
+ Caso queira executar o código online, sugiro o site [onlinegdb](https://www.onlinegdb.com/), utilize o arquivo que contem o código completo !!!lr_0_completo_completo.c 
+
+
+ ✨ Obrigada pela atenção! ✨
 
 
