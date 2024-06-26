@@ -26,7 +26,7 @@ lr_0_parser/
 │ ├── parser.c
 │ ├── stack.c
 │ └── transducer.c
-├── src/extras
+├── extras/
 │ ├── lr_0_parser_completo.c
 │ └── lr_0_parser.excalidraw
 ├── main.c
