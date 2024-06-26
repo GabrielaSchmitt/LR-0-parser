@@ -237,10 +237,9 @@ Stack: [2, S] [1, $]
  
  ## **Extras** 
  
- Arquivo !!!lr_0_parser.excalidraw anexado é o caderno de anotações utilizado durante a execução do algoritmo, contém referencias, desenhos que utilizamos. 
+ Arquivo [lr_0_parser.excalidraw](https://github.com/GabrielaSchmitt/LR-0-parser/blob/main/extras/lr_0_parser.excalidraw) anexado é o caderno de anotações utilizado durante a execução do algoritmo, contém referencias, desenhos que utilizamos. Para abrir faça a importação no site [excalidraw](https://excalidraw.com/).
 
- Caso queira executar o código online, sugiro o site [onlinegdb](https://www.onlinegdb.com/), utilize o arquivo que contem o código completo !!!lr_0_completo_completo.c 
-
+ Caso queira executar o código online, sugiro o site [onlinegdb](https://www.onlinegdb.com/), utilize o arquivo que contem o código completo [lr_0_completo_completo.c](https://github.com/GabrielaSchmitt/LR-0-parser/blob/main/extras/lr_0_completo_completo.c).
 
  ✨ Obrigada pela atenção! ✨
 
